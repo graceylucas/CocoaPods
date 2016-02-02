@@ -8,6 +8,9 @@
 
 import UIKit
 
+import Foundation
+import SwiftyJSON
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
